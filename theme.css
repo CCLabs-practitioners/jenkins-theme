@@ -1,0 +1,4 @@
+// Fix unreadable inputs on Firefox/Mac?
+.jenkins-input, input, select, textarea {
+  background-color: initial !important;
+}
